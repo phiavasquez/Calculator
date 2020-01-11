@@ -609,7 +609,7 @@ Partial Class Form1
         '
         'Button29
         '
-        Me.Button29.BackColor = System.Drawing.Color.Purple
+        Me.Button29.BackColor = System.Drawing.Color.MediumOrchid
         Me.Button29.Cursor = System.Windows.Forms.Cursors.Hand
         Me.Button29.FlatStyle = System.Windows.Forms.FlatStyle.Popup
         Me.Button29.Font = New System.Drawing.Font("Calibri", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
