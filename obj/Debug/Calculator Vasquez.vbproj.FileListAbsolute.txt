@@ -1,0 +1,11 @@
+C:\Users\acer\source\repos\Calculator Vasquez\Calculator Vasquez\bin\Debug\Calculator Vasquez.exe.config
+C:\Users\acer\source\repos\Calculator Vasquez\Calculator Vasquez\bin\Debug\Calculator Vasquez.exe
+C:\Users\acer\source\repos\Calculator Vasquez\Calculator Vasquez\bin\Debug\Calculator Vasquez.pdb
+C:\Users\acer\source\repos\Calculator Vasquez\Calculator Vasquez\bin\Debug\Calculator Vasquez.xml
+C:\Users\acer\source\repos\Calculator Vasquez\Calculator Vasquez\obj\Debug\Calculator Vasquez.vbprojAssemblyReference.cache
+C:\Users\acer\source\repos\Calculator Vasquez\Calculator Vasquez\obj\Debug\Calculator_Vasquez.Form1.resources
+C:\Users\acer\source\repos\Calculator Vasquez\Calculator Vasquez\obj\Debug\Calculator_Vasquez.Resources.resources
+C:\Users\acer\source\repos\Calculator Vasquez\Calculator Vasquez\obj\Debug\Calculator Vasquez.vbproj.GenerateResource.cache
+C:\Users\acer\source\repos\Calculator Vasquez\Calculator Vasquez\obj\Debug\Calculator Vasquez.exe
+C:\Users\acer\source\repos\Calculator Vasquez\Calculator Vasquez\obj\Debug\Calculator Vasquez.xml
+C:\Users\acer\source\repos\Calculator Vasquez\Calculator Vasquez\obj\Debug\Calculator Vasquez.pdb
